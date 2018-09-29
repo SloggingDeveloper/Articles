@@ -1,0 +1,21 @@
+@keyframes example {
+    from {
+        background-color: #DAF7A6;
+        margin-left: 10px;        
+    }
+
+    50% {
+    	background-color: #FFFFE0;
+    	margin-top: 100px;
+    	margin-left: 100px;    	
+    }
+
+    75% {
+    	margin-top: 100px;
+    	margin-left: 10px;
+    }
+    to {
+        background-color: #FFFACD;
+        margin: left: 10px;
+    }
+}
